@@ -1,0 +1,13 @@
+{
+  "name": "parochies-geel",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/engine/\">MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "0",
+  "maxzoom": "17",
+  "scale": "1.000000",
+  "bounds": [4.86125670, 51.08122882, 5.18949140, 51.25572287],
+  "profile": "mercator"
+}
